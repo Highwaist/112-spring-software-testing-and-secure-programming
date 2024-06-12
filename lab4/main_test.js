@@ -24,4 +24,4 @@ const puppeteer = require('puppeteer');
     console.log(desiredTitle);
 
     await browser.close();
-})();
+})(); 
