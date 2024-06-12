@@ -10,4 +10,4 @@ def fail_condition(state):
 simulation.explore(find=success_condition, avoid=fail_condition)
 solution = simulation.found[0]
 print(solution.posix.dumps(sys.stdin.fileno())) 
-#b'HETOBRCUVWOBFEBB'
+#b'HETOBRCUVWOBFEBB' 
