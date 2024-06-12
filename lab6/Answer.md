@@ -51,3 +51,4 @@ SUMMARY: AddressSanitizer: stack-overflow /home/user/Desktop/lab6/src/hw0302.c:4
 ==26947==ABORTING
 
 ```
+
